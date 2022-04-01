@@ -1,0 +1,10 @@
+body{
+	background-color:#000
+}
+
+#welcomeText {
+	color: green;
+	font: IPix;
+	font-size: 50px;
+	font-family: IPix;
+}
